@@ -4,7 +4,7 @@ vendor: Tenda Enterprise-level wired router
 
 product: G1V3.0 
 
-version: V16.01.0.13(3742)
+version: V16.01.7.7(2631)
 
 type: Stack Overflow
 ### Vulnerability Description
